@@ -10,6 +10,8 @@ featuredimage: /img/docker-container-software-development.jpg
 tags:
   - Docker
 ---
+![](/img/large_v-dark.png)
+
 Here we go! We’ve just reached the last post of a series of four! In the previous posts, among a bunch of cool stuff, you were [presented to Docker container with all the benefits it brings](https://shareisthekey.com/2020/09/03/docker-container-software-development-1-4/), learned [how to set up the best software development environment ever](https://shareisthekey.com/2020/09/13/docker-container-software-development-2-4/) and started [playing with eShopOnWeb](https://shareisthekey.com/2020/09/30/docker-container-next-big-thing-in-software-development-3-4/), a Microsoft sample web application using ASP.Net Core. To follow the instructions below, I recommend the reading of all previous posts. There are precious instructions and pre-requisites to follow some of the next steps.
 
 Now let’s take eShopOnWeb to another level. We will build a SQL Server 2019 image and run a container so that eShopOnWeb can persist data.
