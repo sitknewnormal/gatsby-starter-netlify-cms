@@ -5,7 +5,7 @@ date: 2020-10-11T21:36:26.211Z
 description: Now you get it! The most versatile, modern and rich software
   development environment ever. Give it a sneak peek! See what you can do with
   Docker containers. Subscribe and follow me in the next posts.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/docker-container-software-development.jpg
 tags:
   - Docker
